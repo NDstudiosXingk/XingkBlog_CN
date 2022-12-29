@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ndstudiosxingk.github.io/XingkBlog</id>
+    <id>https://ndstudiosxingk.github.io/XingkBlog_CN</id>
     <title>星空的博客 | Xingk&apos;s Blog</title>
     <updated>2022-12-29T01:44:44.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ndstudiosxingk.github.io/XingkBlog"/>
-    <link rel="self" href="https://ndstudiosxingk.github.io/XingkBlog/atom.xml"/>
+    <link rel="alternate" href="https://ndstudiosxingk.github.io/XingkBlog_CN"/>
+    <link rel="self" href="https://ndstudiosxingk.github.io/XingkBlog_CN/atom.xml"/>
     <subtitle>(*/ω＼*)欢迎来到星空的博客</subtitle>
-    <logo>https://ndstudiosxingk.github.io/XingkBlog/images/avatar.png</logo>
-    <icon>https://ndstudiosxingk.github.io/XingkBlog/favicon.ico</icon>
+    <logo>https://ndstudiosxingk.github.io/XingkBlog_CN/images/avatar.png</logo>
+    <icon>https://ndstudiosxingk.github.io/XingkBlog_CN/favicon.ico</icon>
     <rights>All rights reserved 2022, 星空的博客 | Xingk&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[关于Xingk’s Blog]]></title>
-        <id>https://ndstudiosxingk.github.io/XingkBlog/post/about/</id>
-        <link href="https://ndstudiosxingk.github.io/XingkBlog/post/about/">
+        <id>https://ndstudiosxingk.github.io/XingkBlog_CN/post/about/</id>
+        <link href="https://ndstudiosxingk.github.io/XingkBlog_CN/post/about/">
         </link>
         <updated>2022-12-28T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
