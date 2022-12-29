@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "content": "\n\n> (*/ω＼*)欢迎来到我的Blog， 玩的开心~ava🤝\n\n## 🏠 关于本站\n\n这是我的Blog页面， 基于Github Pages驱动。\n\n## 👨‍💻 博主是谁\n\n是我， 星空。\n一个抖音、哔哩哔哩、快手、小红书、全民小视频、微信视频号、QQ小世界博主， Minecraft资深玩家， 开发者\n\n## ⛹ 兴趣爱好\n\n很多很多！ 我写不出来， 因为太多了\n\n## 📬 联系我呀\n\nQQ： 暂不开放\n微信： XingkSSZCCN1 （添加后发送 【星空23】即可） \n\n## ✂️ 我的视频平台账号\n\n哔哩哔哩： 星空永垂不朽\n抖音： 星空永垂不朽\n快手： 星空永垂不朽",
+      "data": {
+        "title": "关于Xingk’s Blog",
+        "date": "2022-12-28 19:09:48",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/about.jpg",
+        "isTop": true
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "about"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gridea",
+      "slug": "khHtFd0Ev",
+      "used": false
+    }
+  ],
+  "menus": [
+    {
+      "link": "/",
+      "name": "首页",
+      "openType": "Internal"
+    },
+    {
+      "link": "/archives",
+      "name": "归档",
+      "openType": "Internal"
+    },
+    {
+      "link": "/tags",
+      "name": "标签",
+      "openType": "Internal"
+    },
+    {
+      "link": "/post/about",
+      "name": "关于",
+      "openType": "Internal"
+    },
+    {
+      "link": "/Main",
+      "name": "主站",
+      "openType": "Internal"
+    }
+  ]
+}

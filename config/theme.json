@@ -1,0 +1,20 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "©2021-2023 ND Studios虚无领域及玖客云网络 版权所有",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "(*/ω＼*)欢迎来到星空的博客",
+    "siteName": "星空的博客 | Xingk's Blog",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "notes"
+  },
+  "customConfig": {}
+}
